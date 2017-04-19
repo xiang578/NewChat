@@ -1,0 +1,9 @@
+E:\C#聊天室\NewClient\NewClient\bin\Debug\NewClient.exe.config
+E:\C#聊天室\NewClient\NewClient\bin\Debug\NewClient.exe
+E:\C#聊天室\NewClient\NewClient\bin\Debug\NewClient.pdb
+E:\C#聊天室\NewClient\NewClient\obj\Debug\NewClient.FormMain.resources
+E:\C#聊天室\NewClient\NewClient\obj\Debug\NewClient.Properties.Resources.resources
+E:\C#聊天室\NewClient\NewClient\obj\Debug\NewClient.csproj.GenerateResource.Cache
+E:\C#聊天室\NewClient\NewClient\obj\Debug\NewClient.exe
+E:\C#聊天室\NewClient\NewClient\obj\Debug\NewClient.pdb
+E:\C#聊天室\NewClient\NewClient\obj\Debug\NewClient.csprojResolveAssemblyReference.cache
